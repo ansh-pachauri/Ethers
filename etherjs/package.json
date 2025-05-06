@@ -1,0 +1,17 @@
+{
+  "name": "etherjs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "tsc -b && node dist/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "ether.js": "^1.0.0",
+    "ethers": "^6.13.7",
+    "typescript": "^5.8.3"
+  }
+}
